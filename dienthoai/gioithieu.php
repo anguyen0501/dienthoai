@@ -1,7 +1,7 @@
 ﻿<div id="gioithieu">
 	<h3>GIỚI THIỆU</h3>
 	<p>
-		&nbsp &nbsp &nbsp &nbsp Điện thoại Tiến Đạt là 1 trong những cửa hàng điện thoại lâu 
+		&nbsp &nbsp &nbsp &nbsp Điện thoại An Trọng là 1 trong những cửa hàng điện thoại lâu 
 		đời nhất tại Việt nam còn tồn tại tới thời điểm này, điều đó thể hiện sự khó khăn và khốc liệt của thị trường 
 		bán lẻ điện thoại di động ở nước ta cũng như sự cố gắng nỗ lực vươn lên để phát triển.
 <br><br>
@@ -15,8 +15,8 @@
 Tiến Đạt mobile cám ơn tất cả các khách hàng đã mua và ủng hộ chúng tôi trong suốt thời gian qua bằng lời cám ơn chân thành nhất .
 	</p>
 	<img src="img/dienthoaitiendat.jpg" width="400" height="600">
-	<p style="margin-bottom:10px; padding-left:60px;">Hình ảnh cửa hàng Điện Thoại Tiến Đạt - Hoàng Mai, Hà Nội</p>
+	<p style="margin-bottom:10px; padding-left:60px;">Hình ảnh cửa hàng Điện Thoại An Trọng</p>
 	<h4>Hà Nội</h4>
 
-<p >Địa chỉ : Hoàng Mai -  Hà Nội | Tel: 0972341193 </p>
+<p >Địa chỉ : Hồ Chí Minh | Tel: 0328 006 072 </p>
 </div>

@@ -4,7 +4,7 @@
  <!-- item -->
 <div class="container-fluid ">
   <hr class="mar-l-r">
-   <h5 class="mar-l-r">ĐIỆN THOẠI NỔI BẬT NHẤT</h5>
+   <h5 class="mar-l-r">ĐIỆN THOẠI NỔI BẬT</h5>
     <div class="row mar-l-r " >
       <?php while ($row=mysqli_fetch_array($rs)) {?>
       <div class="col-3 bor">

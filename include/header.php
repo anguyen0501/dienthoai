@@ -43,7 +43,7 @@
                   
                </div>
             </li>
-             <li class="nav-item">
+            <li class="nav-item">
                <a href="index.php?view=khuyenmai" class="navbar-brand font1">SẢN PHẨM KHUYỄN MÃI</a>
             </li>
          </ul>
