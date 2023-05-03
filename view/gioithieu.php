@@ -1,11 +1,11 @@
 <div id="gioithieu">
-	<h3 class="display-1">GIỚI THIỆU</h3>
+	<h3 class="display-1 row justify-content-center"><b>GIỚI THIỆU</b></h3>
 	<p>
-		&nbsp &nbsp &nbsp &nbsp Điện thoại An Trọng là 1 trong những cửa hàng điện thoại lâu 
+		&nbsp &nbsp &nbsp &nbsp <strong>Điện thoại An Trọng</strong> là 1 trong những cửa hàng điện thoại lâu 
 		đời nhất tại Việt nam còn tồn tại tới thời điểm này, điều đó thể hiện sự khó khăn và khốc liệt của thị trường 
 		bán lẻ điện thoại di động ở nước ta cũng như sự cố gắng nỗ lực vươn lên để phát triển.
 <br><br>
-&nbsp &nbsp &nbsp &nbsp Thời gian phục vụ khách hàng là từ 08h00 sáng đến 21h30 tất cả các ngày trong tuần và 24/7
+&nbsp &nbsp &nbsp &nbsp Thời gian phục vụ khách hàng là từ 08h00 sáng đến 21h30 tất cả các ngày trong tuần và 24/7.
  <br><br>
 &nbsp &nbsp &nbsp &nbsp Tất cả các sản phẩm SMARTPHONE là thế mạnh chính và cung cấp ra thị trường được đảm bảo 
  100% nguyên hộp, trùng IMEI với phụ kiện nguyên SEAL. 
