@@ -11,5 +11,11 @@
 			<div>Tổng đài (7:00 - 20:30) : 0328 006 072</div>
  		</div>
  	</div>
+	 <div class="col-md-5 ft">
+ 		<div >
+ 			
+ 		</div>
+ 	</div>
+</div>
 </div>
 </div>

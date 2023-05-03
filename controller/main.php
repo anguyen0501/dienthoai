@@ -28,7 +28,9 @@
                 case 'khuyenmai': 
                     include('view/sanphamkhuyenmai.php');
                      break;
-                 
+                case 'gioithieu':
+                    include('view/gioithieu.php');
+                    break; 
                 default:
                       include('view/content.php'); 
                       break;  
