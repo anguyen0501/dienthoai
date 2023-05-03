@@ -46,6 +46,9 @@
             <li class="nav-item">
                <a href="index.php?view=khuyenmai" class="navbar-brand font1">SẢN PHẨM KHUYỄN MÃI</a>
             </li>
+			<li class="nav-item">
+               <a href="index.php?view=gioithieu" class="navbar-brand font1">GIỚI THIỆU</a>
+            </li>
          </ul>
          <!-- Right -->
          <ul class="navbar-nav ml-auto">
