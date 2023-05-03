@@ -1,16 +1,16 @@
 
 
-<?php 	
+<?php
 
-	/* f(!isset($_SESSION['admin'])){ header('location:login.php'); }
+/* f(!isset($_SESSION['admin'])){ header('location:login.php'); }
 
 	else {*/
-		include_once('config/database.php');
+include_once('config/database.php');
 
-		include_once('include/header.php');
-		include_once('include/menu.php');
-		include_once('controller/main.php');
-		include_once('include/footer.php'); ?>
+include_once('include/header.php');
+include_once('include/menu.php');
+include_once('controller/main.php');
+include_once('include/footer.php'); ?>
 
 
 <?php	/*include_once('include/footer.php'); }
